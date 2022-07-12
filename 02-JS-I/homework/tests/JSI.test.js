@@ -36,25 +36,25 @@ const {
 } = require('../homework.js');
 
 describe('nuevaString', function() {
-  it('Deberia ser un string', function() {
+  it('Juan', function() {
     expect(typeof nuevaString).toBe('string');
   });
 });
 
 describe('nuevoNum', function() {
-  it('Deberia ser un numero', function() {
+  it('10', function() {
     expect(typeof nuevoNum).toBe('number');
   });
 });
 
 describe('nuevoBool', function() {
-  it('Deberia ser un booleano', function() {
+  it('true', function() {
     expect(typeof nuevoBool).toBe('boolean');
   });
 });
 
 describe('nuevaResta', function() {
-  it('Deberia ser un booleano', function() {
+  it('true', function() {
     expect(nuevaResta).toBe(true);
   });
 });
