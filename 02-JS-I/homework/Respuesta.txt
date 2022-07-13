@@ -1,0 +1,5 @@
+* Variables: tipo de dato que se utiliza para asignar un valor, y éste puede ser modificado en un futuro.
+ * Strings: cadena de caracteres, siempre se encierran con comillas. 
+ * Funciones (argumentos, `return`): Una funcion es una acción que se realiza, donde entre paréntesis se coloca el argumento y entre corchetes el código o las instrucciones de la función. Return se utiliza para salir de la funcion y este devuelve el valor que le indicamos que saque.
+ * Declaraciones `if`: es un condicional. Tiene respuestas booleanas, verdadero o falso. Si es verdadero se realiza una serie de intrucciones dadas, y si es falso se realiza otra serie de instrucciones.
+ * Valores booleanos (`true`, `false`): Respuestas o tipos de datos que no se modifican, en caso de tener respuesta booleana hay solamente dos resultados posibles, true (verdadero) o false (falso).
