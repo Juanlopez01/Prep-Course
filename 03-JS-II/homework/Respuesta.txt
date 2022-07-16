@@ -1,0 +1,2 @@
+* `for`: el bucle for se utiliza para reiterar un bloque de comandos hasta que la variable llegue a su tope.
+* `&&`, `||`, `!`: && significa "y", al aparecer esto es necesario que se cumplan todas las condiciones. || significa "o" y quiere decir que se tiene que cumplir alguna de todas las condiciones. ! significa not, y hace cambiar un true o false a su resultado opuesto.
