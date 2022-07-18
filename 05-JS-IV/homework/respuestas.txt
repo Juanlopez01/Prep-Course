@@ -1,0 +1,5 @@
+	* Objetos: La idea de objeto es la base de JS, un objeto es un conjunto de propiedades, que lo definen. 
+	* Propiedades: Las propiedades forman parte del cuerpo de un objeto, éstas son las que lo definen. 
+	* Métodos: Un método es una propiedad que contiene una función.
+	* Bucle `for…in`: este bucle sirve para recorrer un objeto. La forma de este statement es sencillo, la comienza con una variable, seguido de una palabra clave in y luego el noombre del objeto que se quiera recorrer.	
+	* Notación de puntos vs notación de corchetes: Tienen la misma utilidad. La notación de puntos puede ser más sencilla y más rápida, pero la más práctica para el uso es la notación de corchetes.
