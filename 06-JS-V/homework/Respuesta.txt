@@ -1,0 +1,2 @@
+* `prototype`: El prototype representa el "arbol genealogico" de nuesto objeto. Todos los objetos parten de un objeto base o clase, y poseen todas las propiedades y métodos de sus antecesores.
+* _Constructors_ (de Clases): Para construir una clase existen varias formas, una opción es mediante el keyword class, y la otra es mediante una function.
